@@ -1,3 +1,6 @@
 /* TODO: create root folder with colors */
 
 /* TODO: apply cutom Google Font to body */
+body {
+    background-color: aqua;
+}
